@@ -14,4 +14,4 @@
 
 tg- @gadjife
 email - gm_062@bk.ru
-github - https://github.com/gadji9
+github - https://github.com/gadji9/Find-peaple-full-stack
